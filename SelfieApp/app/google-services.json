@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219215450659",
+    "project_id": "selfieapp-f568c",
+    "storage_bucket": "selfieapp-f568c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219215450659:android:f1fb1b78f3be4870cad796",
+        "android_client_info": {
+          "package_name": "com.shiqiliu.selfieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219215450659-idr7c035o4dscmqv01o5mlv2n7el8it6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6m_dE4gsZVJ_enSJ57M620RbNWZFsmEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219215450659-idr7c035o4dscmqv01o5mlv2n7el8it6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
